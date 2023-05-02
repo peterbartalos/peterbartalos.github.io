@@ -1,0 +1,10 @@
+---
+title: peterbartalos.github.io
+timezone: Europe/Budapest
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
